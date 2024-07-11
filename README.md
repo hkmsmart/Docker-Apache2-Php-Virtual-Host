@@ -28,7 +28,7 @@ githubdan indirdiğimiz proje klasörünün içinde terminali açarak aşağıda
 >    docker-compose up -d
 
 daha sonra tanımış olduğumuz site.test "var/www/html/test" ve site.prod "var/www/html/prod"  adreslerine erişmek istedğimizde ilgili klasörün altındaki projeler açılacaktır.
-
+url de açarken http:// isteği ile açılmasına dikkat edin.
 [site.prod](http://site.prod/)
 [site.test](http://site.test/)
 
