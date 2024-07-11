@@ -6,8 +6,11 @@ ilk önce local bilgisayarımızda hosts dosyasına çağırmak istedğimiz sana
 Burda dikkat etmek gereken durum docker içinde değil local bilgisayarımızda tanımlamamız gerekiyor.
 
 windows için hosts dosya adresi : "c:\Windows\System32\Drivers\etc\hosts"
+
 macos için hosts dosya adresi :"/etc/hosts" veya "/private/etc/hosts" 
+
 ubuntu için hosts dosya adresi :"/etc/hosts"
+
 
 hosts tanımlanacak  domainler:
 127.0.0.1 site.prod
