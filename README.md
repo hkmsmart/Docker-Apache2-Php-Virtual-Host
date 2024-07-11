@@ -29,7 +29,7 @@ githubdan indirdiğimiz proje klasörünün içinde terminali açarak aşağıda
 
 daha sonra tanımış olduğumuz site.test "var/www/html/test" ve site.prod "var/www/html/prod"  adreslerine erişmek istedğimizde ilgili klasörün altındaki projeler açılacaktır.
 
-site.prod
-site.test
+[site.prod](http://site.prod/)
+[site.test](http://site.test/)
 
 blogger linki:https://hkmsmart.blogspot.com/2024/07/docker-apache-virtual-host.html
